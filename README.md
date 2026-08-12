@@ -71,4 +71,4 @@ across chunk boundaries — you don't need to pre-buffer complete lines.
 Sponsored by [Ferrow](https://ferrow.ai)
 
 ---
-Part of the [ferrow-toolkit](https://github.com/Ruzylo-cloud/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
+Part of the [ferrow-toolkit](https://github.com/FerrowAI/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
