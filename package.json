@@ -1,1 +1,21 @@
-{"name":"csv-parser","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{
+  "name": "csv-parser",
+  "version": "2.0.0",
+  "description": "RFC 4180 CSV parser and stringifier with a chunked streaming API, quoted-field/escaped-quote/embedded-newline handling, and opt-in type coercion. Zero runtime dependencies.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node examples/demo.js"
+  },
+  "keywords": [
+    "csv",
+    "rfc4180",
+    "parser",
+    "streaming",
+    "typescript",
+    "stringify"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT"
+}
