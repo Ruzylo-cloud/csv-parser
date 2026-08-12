@@ -1,4 +1,8 @@
 # csv-parser
+
+```sh
+npm install @ferrow/csv-parser
+```
 ![CI](https://github.com/FerrowAI/csv-parser/actions/workflows/ci.yml/badge.svg)
 
 An RFC 4180 CSV parser and stringifier for TypeScript/Node. Handles the parts
